@@ -1,0 +1,3 @@
+- To ovverride message before passing to pattern, developer can extends MessageConverter 
+- Regex Patterns are combined and compile once, the code is not looping on the entire list of regex patterns
+- 
